@@ -1,0 +1,10 @@
+.{
+    margin: 0;
+    border: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.color_celeste_left{
+   background-color: aquamarine;
+   height: 100px;
+   width: 100px;
+}
